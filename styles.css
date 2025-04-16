@@ -1,8 +1,8 @@
 :root {
-  --primary: #2563eb; /* Vibrant blue */
-  --primary-hover: #1d4ed8; /* Darker blue */
-  --secondary: #7c3aed; /* Soft purple */
-  --accent: #10b981; /* Emerald green */
+  --primary: #2563eb;
+  --primary-hover: #1d4ed8;
+  --secondary: #7c3aed;
+  --accent: #10b981;
   --text-dark: #1f2937;
   --text-medium: #4b5563;
   --text-light: #6b7280;
